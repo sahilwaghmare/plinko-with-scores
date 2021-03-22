@@ -1,2 +1,2 @@
 
-plinko with svores project 
+plinko with scores project 
